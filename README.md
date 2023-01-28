@@ -14,3 +14,6 @@
 * Автор конспекта:
 * Telegram - t.me/raffa1989
 * LinkedIn - https://www.linkedin.com/mwlite/in/tatiana-koneva
+
+## Наталия Матвеева - Шпаргалка для QA
+#### https://drive.google.com/file/d/1sLZok7Ccxgi3sJl6SafbgBjH-Dev5OjY/view?usp=share_link
