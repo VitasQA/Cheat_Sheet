@@ -17,3 +17,6 @@
 
 ## Наталия Матвеева - Шпаргалка для QA
 #### https://drive.google.com/file/d/1sLZok7Ccxgi3sJl6SafbgBjH-Dev5OjY/view?usp=share_link
+
+## SQL cheat_sheet
+#### https://drive.google.com/file/d/1rUugo3moJ98uvs8_5G5WZl0GqY_BmcBB/view?usp=share_link
