@@ -20,3 +20,6 @@
 
 ## SQL cheat_sheet
 #### https://drive.google.com/file/d/1rUugo3moJ98uvs8_5G5WZl0GqY_BmcBB/view?usp=share_link
+
+## Краткая шпаргалка по запросам REST API
+#### https://drive.google.com/file/d/1M2rT8ORWXL5wXaMMleMOxFsfgXF_0IXF/view?usp=share_link
