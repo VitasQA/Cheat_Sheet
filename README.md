@@ -23,3 +23,6 @@
 
 ## Краткая шпаргалка по запросам REST API
 #### https://drive.google.com/file/d/1M2rT8ORWXL5wXaMMleMOxFsfgXF_0IXF/view?usp=share_link
+
+## Python 3 "cheat_sheet"
+#### https://drive.google.com/file/d/1exE7ZRAyUaGpJivxyCHB-jdLGbyaHOnz/view?usp=share_link
